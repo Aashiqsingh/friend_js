@@ -1,0 +1,3 @@
+take 3 number from user. if 3 number is grtter than 35 then will be add of
+three number and if 2 number is grteer then 35 any two then will be add and 
+if any one number is grtter than 35 then only print that number.
