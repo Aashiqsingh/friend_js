@@ -1,0 +1,9 @@
+DOM -- Document object model
+
+
+identifier
+1.id -- uniqui
+2. class -- duplicate
+3. tagname -- duplicate 
+4. name - duplicate 
+5. querryselector
